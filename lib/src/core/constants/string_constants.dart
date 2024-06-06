@@ -1,0 +1,13 @@
+const appName = "Stripe Demo";
+const payWithCard = "Pay With Card";
+const payWithBankAccount = "Pay With Bank Account";
+const amount = "Amount";
+const currency = "Currency";
+const pleaseEnterAmount = "Please enter amount.";
+const pleaseEnterValidCurrency = "Please enter a valid currency.";
+const pleaseEnterValidAccountNumber = "Please enter a valid account number.";
+const pleaseEnterValidRoutingNumber = "Please enter a valid routing number.";
+const pleaseEnterValidMicroDeposit = "Please enter a valid micro deposit.";
+const accountNumber = "Account Number";
+const routingNumber = "Routing Number";
+const microDeposit = "Micro Deposit";
