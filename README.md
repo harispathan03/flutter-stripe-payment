@@ -2,6 +2,14 @@
 
 A flutter project with stripe payment integration for card payments and us bank account direct debit payment.
 
+## App Recording & Stripe Payment Page Screenshot:
+
+
+https://github.com/user-attachments/assets/1e8a7536-a0ad-4077-9a2c-0b7ef0fb2e80
+
+
+![stripe-payment-page](https://github.com/user-attachments/assets/56617793-5181-446b-a3a3-a509448b6ae4)
+
 ## Stripe Payment Integration Steps:
 
 1. Create an app on stripe account
